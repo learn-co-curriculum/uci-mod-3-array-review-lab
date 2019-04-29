@@ -12,7 +12,7 @@
 
 ## Introduction
 
-In this lab, you will create arrays, add data to arrays, remove data from arrays
+In this lab, you will create [arrays][], add data to arrays, remove data from arrays
 and retrieve data from arrays.
 
 We will be coding the solutions for each of the above tasks in the body of a
@@ -109,3 +109,9 @@ desired element.
 Congratulations! You just completed learning how to work with create, retrieve,
 update, and delete array operations using simple operatations provided to us in
 Ruby.
+
+## Resources
+
+- [Arrays][arrays]
+
+[arrays]: https://ruby-doc.org/core-2.5.0/Array.html
